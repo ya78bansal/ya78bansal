@@ -7,18 +7,24 @@
 - 🌱 I’m currently learning **Advanced DSA, MERN Stack & Cloud**
 - 👯 I’m looking to collaborate on **Open Source & Real-world Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, C++, ML**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **yashbansal4065@@gmail.com**
 - ⚡ Fun fact: *I love building real-world tech solutions*
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank">
+<a href="https://www.linkedin.com/in/yashbansal78/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
 </a>
-<a href="https://twitter.com/YOUR-ID" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter">
-</a>
-<a href="https://instagram.com/YOUR-ID" target="_blank">
+<a href="https://www.instagram.com/yashbansal78/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram">
 </a>
+
 </p>
+
+
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,mysql,firebase" />
+</p>
+
+
