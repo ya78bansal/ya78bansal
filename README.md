@@ -35,25 +35,26 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 <a href="https://www.linkedin.com/in/yashbansal78/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/ya78bansal" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/yashbansal78/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:yashbansal4065@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/yashbansal4065/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
 </a>
 
 </p>
+
 
 <br/>
 
