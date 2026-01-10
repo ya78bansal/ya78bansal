@@ -18,7 +18,10 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, C++, Python, ML**  
 
-- 📫 How to reach me: **yashbansal4065@gmail.com**  
+- 📫 How to reach me: **yashbansal4065@gmail.com**
+
+- 📄 Want To Know About My Expertiese - 
+          *CLICK HERE* - https://drive.google.com/file/d/1RxMpfRPT6wQSAtT2zzzwTuuV0Rb_gzj6/view?usp=sharing  
 
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*  
 
@@ -34,10 +37,6 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 <a href="https://www.linkedin.com/in/yashbansal78/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-</a>
-
-<a href="https://twitter.com/YOUR-ID" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
 </a>
 
 <a href="https://github.com/ya78bansal" target="_blank">
