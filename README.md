@@ -18,10 +18,10 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, C++, Python, ML**  
 
-- 📫 How to reach me: **yashbansal4065@gmail.com**
+- 📫 How to reach me: **yashbansal4065@gmail.com**  
 
-- 📄 Want To Know About My Expertiese - <br/>
-          *CLICK HERE👉* - https://drive.google.com/file/d/1RxMpfRPT6wQSAtT2zzzwTuuV0Rb_gzj6/view?usp=sharing  
+- 📄 Want to know about my expertise:  
+  👉 **[Click here to view my resume](https://drive.google.com/file/d/1RxMpfRPT6wQSAtT2zzzwTuuV0Rb_gzj6/view?usp=sharing)**  
 
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*  
 
@@ -30,8 +30,6 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 ---
 
 ## 🌐 Connect with Me  
-
-## 🌐 Connect with me:
 
 <p align="left">
 
@@ -55,16 +53,7 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
 </a>
 
-<!-- <a href="https://medium.com/@YOUR-ID" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="40" />
-</a> -->
-
-<!-- <a href="https://www.youtube.com/@YOUR-ID" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="40" />
-</a> -->
-
 </p>
-
 
 <br/>
 
